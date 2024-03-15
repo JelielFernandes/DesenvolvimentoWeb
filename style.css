@@ -1,4 +1,5 @@
 .header-blue {
+    height: 100vh;
     background: linear-gradient(135deg, #FF8500, #FF9E00);
     background-color: #184e8e;
     padding-bottom: 80px;
